@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot-dubbo.iml" filepath="$PROJECT_DIR$/.idea/springboot-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-service/springboot-dubbo-base-service/springboot-dubbo-base-service.iml" filepath="$PROJECT_DIR$/springboot-dubbo-service/springboot-dubbo-base-service/springboot-dubbo-base-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-service/springboot-dubbo-base-service/springboot-dubbo-base-service-api/springboot-dubbo-base-service-api.iml" filepath="$PROJECT_DIR$/springboot-dubbo-service/springboot-dubbo-base-service/springboot-dubbo-base-service-api/springboot-dubbo-base-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-service/springboot-dubbo-base-service/springboot-dubbo-base-service-core/springboot-dubbo-base-service-core.iml" filepath="$PROJECT_DIR$/springboot-dubbo-service/springboot-dubbo-base-service/springboot-dubbo-base-service-core/springboot-dubbo-base-service-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-commons/springboot-dubbo-commons.iml" filepath="$PROJECT_DIR$/springboot-dubbo-commons/springboot-dubbo-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-service/springboot-dubbo-service.iml" filepath="$PROJECT_DIR$/springboot-dubbo-service/springboot-dubbo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-service/springboot-dubbo-user-service/springboot-dubbo-user-service.iml" filepath="$PROJECT_DIR$/springboot-dubbo-service/springboot-dubbo-user-service/springboot-dubbo-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-service/springboot-dubbo-user-service/springboot-dubbo-user-service-api/springboot-dubbo-user-service-api.iml" filepath="$PROJECT_DIR$/springboot-dubbo-service/springboot-dubbo-user-service/springboot-dubbo-user-service-api/springboot-dubbo-user-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-dubbo-service/springboot-dubbo-user-service/springboot-dubbo-user-service-core/springboot-dubbo-user-service-core.iml" filepath="$PROJECT_DIR$/springboot-dubbo-service/springboot-dubbo-user-service/springboot-dubbo-user-service-core/springboot-dubbo-user-service-core.iml" />
+    </modules>
+  </component>
+</project>

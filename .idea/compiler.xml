@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot-dubbo-user-service-core" />
+        <module name="springboot-dubbo-user-service-api" />
+        <module name="springboot-dubbo-base-service-core" />
+        <module name="springboot-dubbo-commons" />
+        <module name="springboot-dubbo-base-service-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springboot-dubbo-base-service" target="1.8" />
+      <module name="springboot-dubbo-base-service-api" target="1.8" />
+      <module name="springboot-dubbo-base-service-core" target="1.8" />
+      <module name="springboot-dubbo-commons" target="1.5" />
+      <module name="springboot-dubbo-service" target="1.8" />
+      <module name="springboot-dubbo-user-service" target="1.8" />
+      <module name="springboot-dubbo-user-service-api" target="1.8" />
+      <module name="springboot-dubbo-user-service-core" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot-dubbo-base-service-api" options="-parameters" />
+      <module name="springboot-dubbo-base-service-core" options="-parameters" />
+      <module name="springboot-dubbo-user-service-api" options="-parameters" />
+      <module name="springboot-dubbo-user-service-core" options="-parameters" />
+    </option>
+  </component>
+</project>
